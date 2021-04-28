@@ -5,7 +5,7 @@ import time
 
 
 
-client_id = '833657447369146389'
+client_id = '(clientID)'
 RPC = Presence(client_id,pipe=0)
 RPC.connect()
 

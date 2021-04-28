@@ -10,4 +10,7 @@ def gg():
 
 def end():
     close()
+    
+if __name__=="__main__":
+    gg()
         

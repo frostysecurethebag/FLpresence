@@ -7,4 +7,4 @@ Nothing too flashy, just a simple implementation.
 
 
 
-# This project is not affiliated with Image-Line or any of its employees and therefore does not reflect the views of said parties. This is purely a fan-made project for FL Studio Discord Presence implementation in the absence of one from the developers.
+# This project is not in any way affiliated with Image-Line or any of its employees and therefore does not reflect the views of said parties. This is purely a fan-made project for FL Studio Discord Presence implementation in the absence of one from the developers.
